@@ -8,5 +8,3 @@
 - 📫 How to reach me: skylys54@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=zeroone001&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"></img>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
