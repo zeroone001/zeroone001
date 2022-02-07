@@ -1,8 +1,8 @@
 ### I am Liu yongsheng 👋, I am a front-end development engineer.
 
 
-- 🔭 I’m currently working on LETV、SMZDM.
-- 🌱 I’m currently learning Vue、React and others.
+- 🔭 I used to work on LETV、SMZDM.
+- 🌱 I’m currently learning ES6、Vue、React and others.
 - ❤️ I love writing Vue.
 - 💬 Ask me about Javascript if you want some help.
 - 📫 How to reach me: skylys54@gmail.com
