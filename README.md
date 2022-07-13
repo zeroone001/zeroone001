@@ -1,7 +1,7 @@
 ### I am Liu yongsheng 👋, I am a front-end development engineer.
 
 
-- 🔭 I used to work on XIAOMI、LETV、SMZDM.
+- 🔭 I used to work on Xiaomi、LETV、SMZDM.
 - 🌱 I’m currently learning ES6、Vue、React and others.
 - ❤️ I love writing Vue.
 - 💬 Ask me about Javascript if you want some help.
